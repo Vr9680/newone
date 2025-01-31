@@ -1,2 +1,2 @@
 v = "vasudev"
-r = "ruchuu"
+r = "ruchuudaa"
